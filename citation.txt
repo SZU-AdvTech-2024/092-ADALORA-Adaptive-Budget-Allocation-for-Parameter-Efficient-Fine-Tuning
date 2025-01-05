@@ -1,0 +1,7 @@
+@inproceedings{REPO092,
+    author = "Zhang, Qingru and Chen, Minshuo and Bukharin, Alexander and He, Pengcheng and Cheng, Yu and Chen, Weizhu and Zhao, Tuo",
+    booktitle = "The Eleventh International Conference on Learning Representations",
+    title = "{Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning }",
+    url = "https://openreview.net/forum?id=lq62uWRJjiY",
+    year = "2023"
+}
